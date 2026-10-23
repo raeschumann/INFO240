@@ -1,0 +1,30 @@
+.knife {
+    float: right;
+  margin-left: 10px;
+  border-style: dashed;
+  border-radius: 10px;
+}
+
+.maid {
+  float:left;
+  height: 200px;
+  margin-right: 10px;
+  border-style: groove;
+  border-radius: 100px;
+}
+
+.judith {
+  float: right;
+  margin-left: 10px;
+  border-style: double;
+  border-radius: 50px;
+}
+
+.bigknife {
+  width: 800px;
+  max-width: 100%;
+}
+
+footer {
+    background-image: url('./images/Artemisia_Gentileschi_Judith_Maidservant_DIA.jpg');
+}
